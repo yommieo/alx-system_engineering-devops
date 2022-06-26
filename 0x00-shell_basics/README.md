@@ -13,3 +13,4 @@ And hidden files starting with .with ls -lna
 Script that create a directory in /tmp)
 Move the file betty.
 Delete betty
+Delete a directory
