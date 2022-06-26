@@ -3,3 +3,4 @@ pwd shows the current path
 command ls display list of content list of a current dir
 cd - this command changes the working directory to the user’s home directory.
 ls -l This is command to list all content in long format in a cwd
+To Display current directory contents, including hidden files (starting with .). Use the long format. Use ls -l -a
