@@ -14,3 +14,4 @@ Script that create a directory in /tmp)
 Move the file betty.
 Delete betty
 Delete a directory
+Command to change current working directory to the previous one
