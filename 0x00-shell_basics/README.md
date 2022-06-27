@@ -19,3 +19,4 @@ Write a script that lists all files (even ones with names beginning with a perio
 To display file type or type of file, file /tmp/filename.
 Symbols inhabitating symbols, symbol link or soft link or symlink is file point to another file's location or a directory.
 To copy updated files only to parent, example:cp -rua * .html ../
+To move all files beginning with uppercase mv [[:upper:]]* 
