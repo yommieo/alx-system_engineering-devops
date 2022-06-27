@@ -18,3 +18,4 @@ Command to change current working directory to the previous one
 Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order) ls -la.
 To display file type or type of file, file /tmp/filename.
 Symbols inhabitating symbols, symbol link or soft link or symlink is file point to another file's location or a directory.
+To copy updated files only to parent, example:cp -rua * .html ../
