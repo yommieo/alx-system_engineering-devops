@@ -21,4 +21,5 @@ Symbols inhabitating symbols, symbol link or soft link or symlink is file point 
 To copy updated files only to parent, example:cp -rua * .html ../
 To move all files beginning with uppercase mv [[:upper:]]* 
 To delete all files that ends with character ~ in cwd
-rm *~ cwd
+rm *~ 
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. mkdir -p welcome/to/school
