@@ -20,3 +20,5 @@ To display file type or type of file, file /tmp/filename.
 Symbols inhabitating symbols, symbol link or soft link or symlink is file point to another file's location or a directory.
 To copy updated files only to parent, example:cp -rua * .html ../
 To move all files beginning with uppercase mv [[:upper:]]* 
+To delete all files that ends with character ~ in cwd
+rm *~ cwd
