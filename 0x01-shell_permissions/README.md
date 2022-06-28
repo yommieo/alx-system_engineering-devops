@@ -6,3 +6,4 @@ sudo chown newuser file name -this command changes user to the new owner of file
 Touch filename creates an empty file.
 To change user permission
 To give x to ug and r to o chmod ug+x,o+r filename.
+To write permission ug+0, o+rwx without using the comma just do chmod 007 filename.
