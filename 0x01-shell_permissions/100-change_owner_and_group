@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staf /0x01-shell_permissions
+sudo chown -R vincent:staf 
