@@ -5,3 +5,4 @@ command 'group' displays all groups a user is part
 sudo chown newuser file name -this command changes user to the new owner of file.
 Touch filename creates an empty file.
 To change user permission
+To give x to ug and r to o chmod ug+x,o+r filename.
